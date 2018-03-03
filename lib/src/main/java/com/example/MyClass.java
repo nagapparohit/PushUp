@@ -15,6 +15,8 @@ public class MyClass {
         System.out.println("The value you have entered is :"+x);
 
         name("Rohit Nagappa");
+
+        System.out.print("hello i asm new ");
     }
 
     private  static  void name(String nameValue){
